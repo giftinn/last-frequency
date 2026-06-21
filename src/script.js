@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>Hati-Hati di Jalan</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Tulus</div>
 
 <div class="player">
 <div class="topRow">
@@ -50,14 +50,14 @@ html:`
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -109,16 +109,21 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+Adek,
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+There are still days when i feel jealous, and honestly, there are days when it feels so much heavier than i want to admit. Life without you hasn't been easy for me. I miss the little things, the conversations, and simply having you around. But if i'm being fair, i know this is the consequence of my own choices. I was the one who decided to let go, and because of that, i can't blame anyone for the distance that exists between us now.
 
-But like late night radio waves that stay playing even when the world sleeps.
+The truth is, i'm still trying to learn how to let you go. I'm still trying to accept that one day, you might find happiness with someone else, and that person might get to be the one who stays by your side. It hurts more than i can explain, and some days it feels impossible. But no matter how difficult it is, i want to respect your path and your future. I want to learn how to be happy for you, even if i'm no longer part of that story.
 
-END SIGNAL
+I still care about you deeply, adek. A part of me will probably always love you in a way that words can't fully describe. But sometimes love also means accepting things as they are, even when they're not what we hoped for. So after you read this, it's okay if you choose to keep your distance or move forward in whatever way feels right for you. I just wanted you to know what was in my heart. Thank you for being someone so special to me.
+
+Berkelanalah dengan siapapun kalo kamu bahagia mas juga insyaAllah ikut bahagia. Walaupun emang nyatanya bahagianya kamu udah gak sama mas, mas beneran udah gamau memberatkan kamu, insyaAllah mas relakan kamu disini dek. karena sejatinya cinta bukan hanya selalu memiliki, tapi merelakan juga menurut mas bagian mencintai dari diri mas yang paling terdalam. Jangan ragu atau ngerasa sungkan kalo mau deket sama siapapun, abaikan dan sisihkan mas tentang hal itu. Kamu harus inget ya, seperti janji mas. Mas gaakan pergi dari kamu, mas pasti selalu ada dibelakang kamu. Mas akan menemani kamu dengan cara yang sedikit berbeda, mas gaakan pernah berubah sampai kapanpun. Mas rasa ini satu satunya janji terhakhir yang mas bisa tepati, maafin mas yang ingkar janji tentang gimana mas gak mau kehilangan kamu yang kedua kalinya ya.
+
+With love,
+Mas
+
+
 <span class="signal">END SIGNAL</span>
 
 </div>
